@@ -1,0 +1,9 @@
+scriptpath='gui_stockdata.pyw'
+scriptname="Stock data"
+scriptdesc="retrieves stock data"
+scriptver="1.0"
+scripticon="icon.ico"
+scriptauthor="Mike Guilmot"
+scriptcopyright="FreeWare"
+scriptextraincludes=(".",["icon.png"])
+scriptpackages=["pytz"]
